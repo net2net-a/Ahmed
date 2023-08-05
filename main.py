@@ -2,4 +2,4 @@
 def main(msg):
     print(msg)
 
-main(Hello everyone this is my test)
+main("Hello everyone this is my test")
